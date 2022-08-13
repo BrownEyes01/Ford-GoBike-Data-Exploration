@@ -36,3 +36,5 @@ Bay Area Bike Share is a company that provides on-demand bike rentals for custom
 > For the presentation, the focus will be on the bike trip duration and it's relationship with user type and days of the week that led to some insights that allowed us understand the data.
 </br> I'll start with introducing the variables of interests in the univariate plots. Then i go ahead to show the bivariate visualization that depicts the relationship of the bike trip duration against the other variables of interest. These plots would be visualized as boxplots.
 </br> Finally I'll depict the multivariate visualization (as pointplot) of the bike trip against the days of the week and user type. These visualizations have been adequately formatted to correctly communicate the message it's meant to pass across.
+
+> Check out the presentation [here](https://github.com/BrownEyes01/Ford-GoBike-System-Data-Exploration/blob/main/Ford_Go_Bike_Presentation_Slide.ipynb)
